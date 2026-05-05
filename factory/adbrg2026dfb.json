@@ -1,6 +1,9 @@
 {
 	"name": "adbrg2026dfb",
 	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "true"
+		},
 		"trustModeClaimForMi": {
 			"value": "Enabled",
 			"editable": true

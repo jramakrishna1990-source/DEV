@@ -1,0 +1,15 @@
+{
+	"name": "adbrg2026dfb",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aa4cef69-efd6-4028-810a-0031179a24ae",
+		"tenantId": "254ea3a5-7b4b-4da0-9fe3-0b566f970a2b"
+	}
+}
